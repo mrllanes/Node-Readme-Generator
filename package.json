@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/mrllanes/Node-Readme-Generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.3",
+    "open": "^7.4.0"
   },
   "description": ""
 }
