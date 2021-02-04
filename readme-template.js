@@ -1,26 +1,41 @@
 const makeReadme = (data) => `
 
-# 
+# ${data.title}
 
-## 
+${data.license}
 
-here
+## Deployed site
 
-## 
+type data.site info here
 
-here
+## Table of Contents
 
-## 
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributions](#contributions)
+* [Questions](#questions)
 
-here
+## Description
 
-##
+${data.description}
 
-here
+## Installation Instructions
 
-##
+${data.installation}
 
+## Usage
 
+${data.usage}
+
+## Contributions
+
+${data.contributions}
+
+## Questions
+
+${data.email}
+${data.github}
 
 `;
 

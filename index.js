@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const markdown = require('markdown-js');
-const multiPrompt = require('multiselect-prompt');
+// const markdown = require('markdown-js');
+// const selectPrompt = require('select');
 const openFile = require('open');
 const questions = require('./questions');
 const makeReadme = require('./readme-template');
@@ -9,8 +9,8 @@ const makeReadme = require('./readme-template');
 async function create() {
     try {
         const userInput = await inquirer.prompt(questions);
-        const readme = makeReadme(userInput);
-        fs.writeFileSync('./Readme.md', readme);
+        const readme =  await makeReadme(userInput);
+        await fs.writeFileSync('./Readme.md', readme);
         console.log('Thank you for using the Llanes Readme Maker 3000!');
         await openFile('./Readme.md');
     } catch (error) {
