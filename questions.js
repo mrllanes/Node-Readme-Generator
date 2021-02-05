@@ -71,7 +71,7 @@ const questions = [
     {
         type: 'confirm',
         message: 'Your Professional README.MD file is being created with the information you supplied. You can open up the file and continue with modifications/additions to the document (such as adding screenshots, etc.). Would you like to continue with the information you provided?',
-        name: 'value',
+        name: 'confirm',
         initial: true
     },
 ];

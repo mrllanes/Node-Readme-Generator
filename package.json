@@ -21,7 +21,8 @@
     "inquirer": "^7.3.3",
     "markdown-js": "^0.0.4",
     "multiselect-prompt": "^0.3.2",
-    "open": "^7.4.0"
+    "open": "^7.4.0",
+    "prompts": "^2.4.0"
   },
   "description": ""
 }

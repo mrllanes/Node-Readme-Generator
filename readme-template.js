@@ -12,8 +12,8 @@ ${data.site}
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Technology](#technology)
 * [Contributions](#contributions)
-
 * [Questions](#questions)
 
 ## Description
@@ -42,6 +42,8 @@ ${data.contributions}
 
 If you have questions or comments about this project, please feel free to contact me via e-mail:
 ${data.email}
+
+You can also find more of my projects on my GitHub page:
 https://github.com/${data.github}
 
 `;
