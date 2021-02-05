@@ -1,11 +1,11 @@
-const makeReadme = (data) => `
-${data.license}
 
-# ${data.title}
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+
+# jzdnfjkgndf jknjk
 
 ## Deployed site
 
-${data.site}
+zjkdngjkzdfgnjkzdfngk
 
 ## Table of Contents
 
@@ -18,32 +18,29 @@ ${data.site}
 
 ## Description
 
-${data.description}
+kjzdkjfgkd jkzdbgkzdfjk zjkdbfgjkzbdfjkg jkzdbfgjkzbdfjkg zjkdfgbzjkdfbg zjkdb zdjkfg zjkdfgbzdjkfg zbjkdf g
 
 ## Installation Instructions
 
-${data.installation}
+kjzdhfgjkzdfhgkjz df kzj dkjfghzkjdf gzjkdhf gzkjdfhgz dkjfghzdlkfjgh aslieg zkldjfgh 
 
 ## Usage
 
-${data.usage}
+zjkldfhg zdjkfghzdfg zdjkfghz djkf gzkdjfhg zkjdfgh zldkjfgh zldkjfgh zldkjfgh 
 
 ## Technology Stack
 
 The following technologies were used to create this site/application/software/project:
-${data.tech}
+zgzrfg, zedgzedrg, zdgzedgzr, ZEDrgzdrg
 
 ## Contributions
 
 The following individuals contributed to the creation of this site/application/software/project:
-${data.contributions}
+zjkdghjk, zdfgzsdg, zdfgzdgh,z dfghzdfgh
 
 ## Questions
 
 If you have questions or comments about this project, please feel free to contact me via e-mail:
-${data.email}
-https://github.com/${data.github}
+jkzdbngkjzdfg@zjkdlfgnzjkldfg.com
+https://github.com/znjkdnfjgn
 
-`;
-
-module.exports = makeReadme;

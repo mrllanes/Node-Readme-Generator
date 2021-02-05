@@ -9,8 +9,9 @@ const makeReadme = require('./readme-template');
 async function create() {
     try {
         const userInput = await inquirer.prompt(questions);
+        
         const readme =  await makeReadme(userInput);
-        await fs.writeFileSync('./Readme.md', readme);
+        await fs.writeFileSync('./NewReadme/Readme.md', readme);
         console.log('Thank you for using the Llanes Readme Maker 3000!');
         await openFile('./Readme.md');
     } catch (error) {

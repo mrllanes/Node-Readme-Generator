@@ -6,6 +6,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'Please type in the weblink of your deployed site (include https://):',
+        name: 'site',
+    },
+    {
+        type: 'input',
         message: 'For the "Description" portion of the Readme, please describe your project:',
         name: 'description',
     },
@@ -22,7 +27,14 @@ const questions = [
     {
         type: 'input',
         message: 'Please list any contributors to your project (people):',
+        hint: '- If more than one, separate with commas -',
         name: 'contributions',
+    },
+    {
+        type: 'input',
+        message: 'Please list the technologies used to create this project (i.e. JavaScipt, Node, React, etc.)',
+        name: 'tech',
+        hint: '- If more than one, separate with commas -',
     },
     {
         type: 'list',
