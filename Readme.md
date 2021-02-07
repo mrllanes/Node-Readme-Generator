@@ -6,7 +6,7 @@
 
 https://mrllanes.github.io/Node-Readme-Generator/
 
-![NPRG Video](./assets/Llanes-Node-Readme-Generator-Video.mp4)
+https://youtu.be/nXEyaUropb8
 (Video showing usage)
 
 ## Table of Contents
