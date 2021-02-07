@@ -57,3 +57,4 @@ Please see the images below to see how the Node Professional Readme Generator lo
 ![NPRG Image 1](./assets/readme-images/NRG-image1.PNG)
 ![NPRG Image 2](./assets/readme-images/NRG-image2.PNG)
 ![NPRG Image 3](./assets/readme-images/NRG-image3.PNG)
+![NPRG GIF](./assets/readme-images/Llanes-Node-Readme-Generator-GIF.gif)
