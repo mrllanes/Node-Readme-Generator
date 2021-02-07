@@ -1,4 +1,3 @@
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Node Professional Readme Generator
@@ -9,12 +8,12 @@ https://mrllanes.github.io/Node-Readme-Generator/
 
 ## Table of Contents
 
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Technology](#technology)
-* [Contributions](#contributions)
-* [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technology](#technology)
+- [Contributions](#contributions)
+- [Questions](#questions)
 
 ## Description
 
@@ -26,17 +25,22 @@ No real installation necessary, however you do need to have NPM modules installe
 
 ## Usage
 
-Simply run the Readme Generator in Node (node index.js). Answer the questions one at a time and as thorough as possible. When you are done with the questions, your new Readme file will be created in the "NewReadme" folder. The file will also be opened in vim/vi/nano for your immediate viewing. To add content of make changes to your ne readme, simple open the file in your favorite editor an edit away!
+- Simply run the Readme Generator in Node (node index.js).
+- Answer the questions one at a time and as thorough as possible.
+- When you are done with the questions, your new Readme file will be created in the "NewReadme" folder.
+- The file will also be opened in vim/vi/nano for your immediate viewing.
+- To add content or make changes to your new readme, simply open the file in your favorite editor an edit away!
 
 ## Technology Stack
 
 The following technologies were used to create this site/application/software/project:
-JQuery, Node, NPM Modules, VS Code
+
+- JQuery, Node, NPM Modules, VS Code
 
 ## Contributions
 
 The following individuals contributed to the creation of this site/application/software/project:
-Tish McNeel (helped with certain syntax and expertise.
+Tish McNeel (helped with certain syntax and expertise)
 
 ## Questions
 
@@ -46,3 +50,10 @@ llanesm@gmail.com
 You can also find more of my projects on my GitHub page:
 https://github.com/mrllanes
 
+## Screenshots
+
+Please see the images below to see how the Node Professional Readme Generator looks!
+(Yes, this readme was created using the Node Professional Readme Generator. I only went in and corrected spelling errors, formatted the "Usage" section with bullet points and added the Screenshots!)
+![NPRG Image 1](./assets/readme-images/NRG-image1.PNG)
+![NPRG Image 2](./assets/readme-images/NRG-image2.PNG)
+![NPRG Image 3](./assets/readme-images/NRG-image3.PNG)
