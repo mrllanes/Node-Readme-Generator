@@ -1,3 +1,4 @@
+// Template for the Node Readme Maker to be used with the index.js file
 const makeReadme = (data) => `
 ${data.license}
 
